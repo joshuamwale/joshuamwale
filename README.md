@@ -12,7 +12,7 @@ I studied Indutrial chemistry at university but my interests lie in software eng
 - SQL
 - Ruby on Rails
 - Project management
-  I'm having fun understanding how backend development works. 
+- I'm having fun understanding how backend development works. 
 
 👯 I’m looking to collaborate on:
    - Building APIs at scale 
@@ -34,5 +34,5 @@ I studied Indutrial chemistry at university but my interests lie in software eng
 - He
 - Him
 
-⚡ Fun fact: I write poems for inspiration and rejuvenation. I am a bibliophile (African literature, Play and Short stories)
+⚡ Fun fact: I write poems for inspiration and rejuvenation. I am a bibliophile and read very widely (African literature, Plays and Short stories)
 
