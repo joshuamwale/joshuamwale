@@ -8,31 +8,31 @@ I’m currently enrolled at Moringa School for the Fullstack Software Engineerin
 I studied Indutrial chemistry at university but my interests lie in software engineering and data science. 
 
 🌱 I’m currently learning:
-  .Ruby
-  .SQL
-  .Ruby on Rails
-  .Project management
+- Ruby
+- SQL
+- Ruby on Rails
+- Project management
   I'm having fun understanding how backend development works. 
 
 👯 I’m looking to collaborate on:
- .Building APIs at scale 
- .Building open source tools 
+   - Building APIs at scale 
+   - Building open source tools 
  
 🤔 I’m looking for help with:
- .Career mentorship
- .Internship and job opportunities 
+ - Career mentorship
+ - Internship and job opportunities 
  
 💬 Ask me about:
   - Career transition journey and my motivation to delve into building computer programs and web apps. 
   
 📫 How to reach me:
- -LinkedIn (https://www.linkedin.com/in/joshua-mwale-8a8a3557/)
- -Email: mwalejoshua89@gmail.com
- -Twitter: @joshua_mwale
+- LinkedIn (https://www.linkedin.com/in/joshua-mwale-8a8a3557/)
+- Email: mwalejoshua89@gmail.com
+- Twitter: @joshua_mwale
  
 😄 Pronouns:
- -He
- -Him
+- He
+- Him
 
 ⚡ Fun fact: I write poems for inspiration and rejuvenation. I am a bibliophile (African literature, Play and Short stories)
 
