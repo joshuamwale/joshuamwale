@@ -10,7 +10,6 @@ I studied Industrial chemistry at university but my interests lie in software en
 🌱 I’m currently learning:
 - Ruby
 - SQL
-- Ruby on Rails
 - Project management
 - I'm having fun understanding how backend development works. 
 
