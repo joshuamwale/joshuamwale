@@ -9,7 +9,7 @@ I studied Industrial chemistry at university but my interests lie in software en
 
 🌱 I’m currently learning:
 - Ruby on Rails 
-- React Query, React Recoil, Redux (JS library)
+- [React Query, React Recoil], and Redux
 - Project management (LinkedIn professional development course)
 - I'm having fun understanding how backend development works and how a framework like Ruby on Rails enables this.
 
@@ -33,5 +33,5 @@ I studied Industrial chemistry at university but my interests lie in software en
 - He
 - Him
 
-⚡ Fun fact: I write poems for inspiration and rejuvenation. I am a bibliophile and read very widely (African literature, Plays and Short stories)
+⚡ Fun fact: I write poems for inspiration and rejuvenation. I am a bibliophile and read very widely (African literature,Shakespeare,Russian Plays, Henrik Ibsen and Short stories)
 
