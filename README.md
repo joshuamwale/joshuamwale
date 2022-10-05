@@ -9,8 +9,8 @@ I studied Industrial chemistry at university but my interests lie in software en
 
 🌱 I’m currently learning:
 - Ruby on Rails 
-- Redux (JavaScript library)
-- Project management (professional development course)
+- React Query, React Recoil, 
+- Project management (LinkedIn professional development course)
 - I'm having fun understanding how backend development works and how a framework like Ruby on Rails enables this.
 
 👯 I’m looking to collaborate on:
