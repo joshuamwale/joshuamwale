@@ -22,7 +22,7 @@ I studied Industrial chemistry at university but my interests lie in software en
  - Internship and job opportunities 
  
 💬 Ask me about:
-  - Career transition journey and my motivation to delve into building computer programs and web apps. 
+  - Career transition journey and my motivation to delve into software engineering (building computer programs, systems and apps) 
   
 📫 How to reach me:
 - LinkedIn (https://www.linkedin.com/in/joshua-mwale-8a8a3557/)
