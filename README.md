@@ -31,5 +31,5 @@ I'm having fun understanding how backend development works and how a framework l
 
 Don't hesitate to reach out if you are having a question or want us to have a fireside chat about anything including philosophy
 
-⚡ Fun fact: I write poems for inspiration and rejuvenation. I am a bibliophile and read very widely (African literature,Shakespeare,Russian Plays, Henrik Ibsen and Short stories)
+⚡ Fun fact: I write poems for inspiration and rejuvenation. I am a bibliophile and read very widely (African literature, Shakespeare, Russian Plays, Henrik Ibsen and Short stories)
 
