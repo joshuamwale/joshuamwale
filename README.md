@@ -2,10 +2,9 @@
 
 ✨ I'm glad to see you here ✨ 
 
-I’m currently enrolled at Moringa School for the Fullstack Software Engineering Program. I will be graduating by end of November, 2022 inshallah. I plan to use the skills and knowledge I've gained to solve problems in healthcare, fintech, energy and our African agricultural systems using technology-based products and solutions.
-
-![image](https://user-images.githubusercontent.com/106306519/190840392-1a3cfac3-e7fb-4b17-9c40-40cf00ff39ca.png)
-I studied Industrial chemistry at university but my interests lie in software engineering and data science. 
+* I’m currently enrolled at Moringa School for the Fullstack Software Engineering Program. I will be graduating by end of November, 2022 inshallah. 
+* I plan to use the skills and knowledge I've gained to solve problems in healthcare, fintech, energy and our African agricultural systems using technology-based products and solutions.
+* I studied Industrial chemistry at university but my interests lie in software engineering and data science.
 
 🌱 I’m currently learning:
 * Ruby
