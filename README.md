@@ -10,7 +10,7 @@ I studied Industrial chemistry at university but my interests lie in software en
 🌱 I’m currently learning:
 * Ruby(language)
 * Ruby on Rails(framework)
-      * I'm having fun understanding how backend development works and how a framework like Ruby on Rails enables this.
+I'm having fun understanding how backend development works and how a framework like Ruby on Rails enables this.
 
 👯 I’m looking to collaborate on:
 * Building APIs at scale 
@@ -26,7 +26,7 @@ I studied Industrial chemistry at university but my interests lie in software en
 📫 How to reach me:
 * [LinkedIn](https://www.linkedin.com/in/joshua-mwale-8a8a3557/)
 * [Twitter](https://twitter.com/joshua_mwale)
-*Don't hesitate to reach out if you are having a question or want us to have a fireside chat about anything including philosophy
+Don't hesitate to reach out if you are having a question or want us to have a fireside chat about anything including philosophy
 
 ⚡ Fun fact: I write poems for inspiration and rejuvenation. I am a bibliophile and read very widely (African literature,Shakespeare,Russian Plays, Henrik Ibsen and Short stories)
 
