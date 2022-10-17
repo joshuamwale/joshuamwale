@@ -23,9 +23,9 @@ I studied Industrial chemistry at university but my interests lie in software en
   - Career transition journey and my motivation to delve into software engineering (building computer programs, systems and apps) 
   
 📫 How to reach me:
-- LinkedIn (https://www.linkedin.com/in/joshua-mwale-8a8a3557/)
-- Email: mwalejoshua89@gmail.com
-- Twitter: @joshua_mwale
+[LinkedIn](https://www.linkedin.com/in/joshua-mwale-8a8a3557/)
+[Twitter](https://twitter.com/joshua_mwale)
+Don't hesitate to reach out if you are having a question or want us to have a chat 
  
 😄 Pronouns:
 - He
