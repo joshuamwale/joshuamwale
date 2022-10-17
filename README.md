@@ -8,8 +8,9 @@ I’m currently enrolled at Moringa School for the Fullstack Software Engineerin
 I studied Industrial chemistry at university but my interests lie in software engineering and data science. 
 
 🌱 I’m currently learning:
-* Ruby(language)
-* Ruby on Rails(framework)
+* Ruby
+* Ruby on Rails
+* Project management
 
 I'm having fun understanding how backend development works and how a framework like Ruby on Rails enables this.
 
