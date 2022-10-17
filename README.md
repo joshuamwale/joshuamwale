@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-✨ I'm glad to see you here ✨ 
+✨ Welcome. I'm glad to see you here. ✨ 
 
 * I’m currently enrolled at Moringa School for the Fullstack Software Engineering Program. I will be graduating by end of November, 2022 inshallah. 
 * I plan to use the skills and knowledge I've gained to solve problems in healthcare, fintech, energy and our African agricultural systems using technology-based products and solutions.
