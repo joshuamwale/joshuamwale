@@ -2,7 +2,7 @@
 
 ✨ Welcome. I'm glad to see you here. Here is my educational and training journey. ✨ 
 
-* I’m currently enrolled at Moringa School for the Fullstack Software Engineering Program. I will be graduating by end of November, 2022 inshallah. 
+* I’m currently enrolled at Moringa School for the Fullstack Software Engineering Program. I will be graduating by end of November, 2022 inshallah. My interests lie in Backend development.
 * I plan to use the skills and knowledge I've gained to solve problems in healthcare, fintech, energy and our African agricultural systems using technology-based products and solutions.
 * I studied Industrial chemistry at university but my interests lie in software engineering and data science.
 
