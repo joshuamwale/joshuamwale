@@ -18,8 +18,8 @@ I'm having fun understanding how backend development works and how a framework l
 * Building open source tools 
  
 🤔 I’m looking for help with:
-* Internship and job opportunities 
 * Career mentorship
+* Internship and job opportunities
  
 💬 Ask me about:
 * Career transition journey and my motivation to ditch industrial chemistry and delve into software engineering (building computer programs, systems and apps) 
