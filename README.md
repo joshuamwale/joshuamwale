@@ -1,8 +1,8 @@
 #### Hi there 👋
 
-✨ Welcome. I'm glad to see you here. Here is my educational and training journey. ✨ 
+✨ Welcome. I'm glad to see you here. Please have a look at my educational and training journey. ✨ 
 
-* I’m currently enrolled at Moringa School for the Fullstack Software Engineering Program. I will be graduating by end of November, 2022 inshallah. My interests lie in Backend development.
+* I’m currently enrolled at Moringa School for the Fullstack Software Engineering Program. I will be graduating by end of November, 2022 inshallah. My interestslie in Backend development and data analytics. 
 * I plan to use the skills and knowledge I've gained to solve problems in healthcare, fintech, energy and our African agricultural systems using technology-based products and solutions.
 * I studied Industrial chemistry at university but I am transitioning into software engineering and data analytics.
 
@@ -31,6 +31,6 @@ I'm having fun understanding how backend development works and how a framework l
 Don't hesitate to reach out if you are having a question or want us to have a fireside chat about anything, including philosophy and poetry.
 
 ⚡ Fun facts:
-* I write poems for inspiration and rejuvenation and expression. Code and poetry are two sides of the same coin I believe. 
-* I am a bibliophile and read very widely (African literature, Shakespeare's play, Russian literature, Henrik Ibsen and Short stories). My current read is: Ibsen's Four great plays. 
+* I am versatile and write poems for inspiration, rejuvenation and expression. I believe, code and poetry are two sides of the same coin.
+* I am a bibliophile and read very widely (African literature, Shakespeare's play, Russian literature, Henrik Ibsen and Short stories). My current read is: Ibsen's Four Great Plays. 
 
