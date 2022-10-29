@@ -36,6 +36,6 @@ I'm having fun understanding how backend development works and how a framework l
 
 Don't hesitate to reach out if you are having a question or want us to have a fireside chat about anything, including philosophy, economics and poetry.
 
-* ⚡Fun fact: ***I am versatile and write poems for inspiration, rejuvenation and expression. I believe, code and poetry are two sides of the same coin.**
+* ⚡Fun fact: ***I am versatile and write poems for inspiration, rejuvenation and expression. I believe, code and poetry are two sides of the same coin.***
 * ⚡Fun fact: A bibliophile, I read very widely (African literature, Shakespeare's play, Russian literature, Henrik Ibsen and Short stories). My current read is: Ibsen's Four Great Plays. 
 
