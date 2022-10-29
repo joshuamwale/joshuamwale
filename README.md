@@ -29,7 +29,7 @@ I'm having fun understanding how backend development works and how a framework l
 * 📫How to reach me:**mwalejoshua89@gmail.com**
 * 📄Know about my experiences(CV): (Updating my cv before I share)
  
-**Connect With Me**
+ ### Connect With Me
 * [LinkedIn](https://www.linkedin.com/in/joshua-mwale-8a8a3557/)
 * [Twitter](https://twitter.com/joshua_mwale)
 * 📝[Medium](https://medium.com/@mwale_josh)
