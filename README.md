@@ -20,7 +20,7 @@ I'm having fun understanding how backend development works and how a framework l
 * Internship and job opportunities
  
 💬 Ask me about:
-* `#0969DA`**JavaScript, React, Angular, Python, Ruby, Ruby on Rails **
+* **JavaScript, React, Angular, Python, Ruby, Ruby on Rails **
 * **Career transition journey** and my motivation to pursue a new career in software engineering (building computer programs, systems and apps) 
  
   
