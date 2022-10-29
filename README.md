@@ -3,11 +3,12 @@
 
 ✨ Welcome. I'm glad to see you here. Please have a look at my educational and training journey. ✨ 
 
-* I’m currently enrolled at **Moringa School for the Software Engineering Program.** I'll be graduating in November, 2022 inshallah. My interests lie in ***frontend and backend development(web for now), data analytics, and AI.*** 
+* I’m currently enrolled at **Moringa School for the Software Engineering Program.** I'll be graduating in November, 2022 inshallah. My interests lie in ***frontend and backend development(web and mobile), data analytics, and AI.*** 
 * I plan to use the skills and knowledge I've gained to solve problems in ***healthcare, fintech, energy sector and our African agricultural systems using technology-based products and solutions.***
-* I studied **Industrial chemistry at university** but I am transitioning into **software engineering and data analytics.**
+* I studied **Industrial Chemistry at university** but I am transitioning into **software engineering and data analytics.**
 
-🌱 I’m currently learning: **JavaScript** (relearning on the daily), **UI/UX Design**,**Project management** - an online course
+🌱 I’m currently learning: **JavaScript** (relearning on the daily), **UI/UX Design**, **Project management** - an online course
+
 I'm having fun understanding how backend development works and how a framework like Ruby on Rails enables this.
 
 👯 I’m looking to collaborate on:
@@ -19,7 +20,9 @@ I'm having fun understanding how backend development works and how a framework l
 * Internship and job opportunities
  
 💬 Ask me about:
-* Career transition journey and my motivation to ditch industrial chemistry and delve into software engineering (building computer programs, systems and apps) 
+* **JavaScript, React, NodeJS, Ruby, Ruby on Rails, Python, Angular**
+* **Career transition journey** and my motivation to pursue a new career in software engineering (building computer programs, systems and apps) 
+ 
   
 📫 How to reach me:
 * [LinkedIn](https://www.linkedin.com/in/joshua-mwale-8a8a3557/)
