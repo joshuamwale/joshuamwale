@@ -20,13 +20,14 @@ I'm having fun understanding how backend development works and how a framework l
 * Internship and job opportunities
  
 💬 Ask me about:
-* **JavaScript, React, NodeJS, Ruby, Ruby on Rails, Python, Angular**
+* `#0969DA`**JavaScript, React, Angular, Python, Ruby, Ruby on Rails **
 * **Career transition journey** and my motivation to pursue a new career in software engineering (building computer programs, systems and apps) 
  
   
-📫 How to reach me:
+**CONNECT WITH ME**
 * [LinkedIn](https://www.linkedin.com/in/joshua-mwale-8a8a3557/)
 * [Twitter](https://twitter.com/joshua_mwale)
+* [Medium](https://medium.com/@mwale_josh)
 
 Don't hesitate to reach out if you are having a question or want us to have a fireside chat about anything, including philosophy, economics and poetry.
 
