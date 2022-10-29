@@ -1,17 +1,13 @@
 # Hi👋, I'm Joshua Mwale 
 ### A passionate software development engineer from Nairobi, Kenya
 
-##### ✨ Welcome. I'm glad to see you here. Please have a look at my educational and training journey. ✨ 
+✨ Welcome. I'm glad to see you here. Please have a look at my educational and training journey. ✨ 
 
 * I’m currently enrolled at **Moringa School for the Software Engineering Program.** I'll be graduating in November, 2022 inshallah. My interests lie in ***frontend and backend development(web for now), data analytics, and AI.*** 
 * I plan to use the skills and knowledge I've gained to solve problems in ***healthcare, fintech, energy sector and our African agricultural systems using technology-based products and solutions.***
-* I studied Industrial chemistry at university but I am transitioning into software engineering and data analytics.
+* I studied **Industrial chemistry at university** but I am transitioning into **software engineering and data analytics.**
 
-🌱 I’m currently learning:
-* JavaScript (relearning on the daily)
-* UI/UX Design
-* Project management - course
-
+🌱 I’m currently learning: **JavaScript** (relearning on the daily), **UI/UX Design**,**Project management** - an online course
 I'm having fun understanding how backend development works and how a framework like Ruby on Rails enables this.
 
 👯 I’m looking to collaborate on:
