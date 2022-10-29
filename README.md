@@ -40,6 +40,6 @@ Don't hesitate to reach out if you are having a question or want us to have a fi
 * ⚡Fun fact: **A bibliophile, I read very widely** (African literature, Shakespeare's play, Russian literature, Henrik Ibsen and Short stories). My current read is: Ibsen's Four Great Plays.
 
 ## Languages and Tools
-[Amazon](https://aws.amazon.com/amplify/)
+[AWS](https://aws.amazon.com/amplify/)
 
 
