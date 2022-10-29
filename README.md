@@ -1,5 +1,6 @@
-                            # Hi👋, I'm Joshua Mwale 
-### ✨ Welcome. I'm glad to see you here. Please have a look at my educational and training journey. ✨ 
+# Hi👋, I'm Joshua Mwale 
+
+#### ✨ Welcome. I'm glad to see you here. Please have a look at my educational and training journey. ✨ 
 
 * I’m currently enrolled at Moringa School for the Fullstack Software Engineering Program. I will be graduating in November, 2022 inshallah. My interests lie in frontend and backend development, data analytics, and AI. 
 * I plan to use the skills and knowledge I've gained to solve problems in healthcare, fintech, energy and our African agricultural systems using technology-based products and solutions.
