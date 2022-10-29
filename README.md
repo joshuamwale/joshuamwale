@@ -1,4 +1,4 @@
-                                        #Hi there 👋
+                                        # Hi👋
 
 ✨ Welcome. I'm glad to see you here. Please have a look at my educational and training journey. ✨ 
 
