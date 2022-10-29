@@ -1,4 +1,4 @@
-                                        # Hi👋, I'm Joshua Mwale 
+# Hi👋, I'm Joshua Mwale 
 
 ✨ Welcome. I'm glad to see you here. Please have a look at my educational and training journey. ✨ 
 
