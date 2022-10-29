@@ -7,7 +7,10 @@
 * I plan to use the skills and knowledge I've gained to solve problems in ***healthcare, fintech, energy sector and our African agricultural systems using technology-based products and solutions.***
 * I studied **Industrial Chemistry at university** but I am transitioning into **software engineering and data analytics.**
 
-🌱 I’m currently learning: **JavaScript** (relearning/continous practice), **UI/UX Design**, **Project management** - an online course
+🌱 I’m currently learning: 
+* **JavaScript** (relearning/continous practice)
+* **UI/UX Design**
+* **Project management** - an online course
 
 I'm having fun understanding how backend development works and how a framework like Ruby on Rails enables this.
 
