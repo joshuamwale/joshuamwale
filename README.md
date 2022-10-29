@@ -29,13 +29,15 @@ I'm having fun understanding how backend development works and how a framework l
 * 📫How to reach me:**mwalejoshua89@gmail.com**
 * 📄Know about my experiences(CV): (Updating my cv before I share)
  
-**CONNECT WITH ME**
+**Connect With Me**
 * [LinkedIn](https://www.linkedin.com/in/joshua-mwale-8a8a3557/)
 * [Twitter](https://twitter.com/joshua_mwale)
 * 📝[Medium](https://medium.com/@mwale_josh)
 
 Don't hesitate to reach out if you are having a question or want us to have a fireside chat about anything, including philosophy, economics and poetry.
 
-* ⚡Fun fact: **I am versatile and write poems/poetry** for inspiration, rejuvenation and expression. I believe, code and poetry are two sides of the same coin.
-* ⚡Fun fact: **A bibliophile, I read very widely** (African literature, Shakespeare's play, Russian literature, Henrik Ibsen and Short stories). My current read is: Ibsen's Four Great Plays. 
+* ⚡Fun fact: **I am versatile and write poems/poetry** for inspiration, rejuvenation and expression. Code and poetry = same coin.
+* ⚡Fun fact: **A bibliophile, I read very widely** (African literature, Shakespeare's play, Russian literature, Henrik Ibsen and Short stories). My current read is: Ibsen's Four Great Plays.
+
+## Languages and Tools
 
