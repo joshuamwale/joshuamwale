@@ -12,7 +12,7 @@
 * **UI/UX Design**
 * **Project management** - an online course
 
-I'm having fun understanding how backend development works and how a framework like Ruby on Rails enables this.
+I'm having fun understanding how backend development works and how frameworks like Angular and Ruby on Rails enable this.
 
 👯 I’m looking to collaborate on:
 1. Building APIs at scale 
