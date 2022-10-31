@@ -3,7 +3,7 @@
 
 ✨ Welcome. I'm glad to see you here. Please have a look at my educational and training journey. ✨ 
 
-* Currently enrolled at **Moringa School for the Software Engineering Program.** My interests lie in ***frontend and backend development(web and mobile), data analytics, and AI.*** 
+* Currently enrolled at **Moringa School for the Software Engineering Program.** My interests lie in ***frontend development first, then backend development(web and mobile), data analytics, and AI.*** 
 * I plan to use the skills and knowledge I've gained to solve problems in ***healthcare, fintech, energy sector and our African agricultural systems using technology-based products and solutions.***
 * Transitioning into **software engineering and data analytics.**
 
