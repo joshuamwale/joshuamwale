@@ -3,12 +3,12 @@
 
 ✨ Welcome. I'm glad to see you here. Please have a look at my educational and training journey. ✨ 
 
-* I’m currently enrolled at **Moringa School for the Software Engineering Program.** I'll be graduating in November, 2022 inshallah. My interests lie in ***frontend and backend development(web and mobile), data analytics, and AI.*** 
+* Currently enrolled at **Moringa School for the Software Engineering Program.** My interests lie in ***frontend and backend development(web and mobile), data analytics, and AI.*** 
 * I plan to use the skills and knowledge I've gained to solve problems in ***healthcare, fintech, energy sector and our African agricultural systems using technology-based products and solutions.***
-* I studied **Industrial Chemistry at university** but I am transitioning into **software engineering and data analytics.**
+* Transitioning into **software engineering and data analytics.**
 
 🌱 I’m currently learning: 
-* **JavaScript** (relearning/continous practice)
+* **JavaScript** (continous learning/ practice)
 * **UI/UX Design**
 * **Project management** - an online course
 
