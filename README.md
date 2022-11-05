@@ -10,11 +10,11 @@ I'm a passionate software development engineer from Kenya
 * **JavaScript** (continous learning/ practice); **UI/UX Design**(Figma); **Project management** - an online course
 
 👯 I’m looking to collaborate on:
-* Building APIs at scale || * Building open source tools 
+* Building APIs at scale
+* Building open source tools 
  
 🤔 I’m looking for help with:
-Career mentorship
-Internship and job opportunities
+**Career mentorship** || **Internship and job opportunities**
  
 💬 Ask me about:
 * **JavaScript, ReactJS, Python, Ruby, Ruby on Rails**
