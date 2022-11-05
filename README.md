@@ -14,11 +14,12 @@
 * Building open source tools 
  
 🤔 I’m looking for help with:
-**Career mentorship** || **Internship and job opportunities**
+* **Career mentorship**
+* **Internship and job opportunities**
  
 💬 Ask me about:
-* **JavaScript, ReactJS,Ruby, Ruby on Rails**
-* **My career transition journey** 
+* ***JavaScript, ReactJS, Ruby, Ruby on Rails***
+* ***My career transition journey***
 
 ### EMAIL & CV
 * 📫How to reach me:**mwalejoshua89@gmail.com**
