@@ -32,8 +32,8 @@ I'm having fun understanding how backend development works and how frameworks li
 * 📝[Medium](https://medium.com/@mwale_josh)
 * Don't hesitate to reach out if you are having a question or want us to have a fireside chat about anything, including philosophy, economics and poetry.
 
-⚡Fun fact: **I am versatile and write poems/poetry** for inspiration, rejuvenation and expression.
-⚡Fun fact: **A bibliophile, I read very widely** (African literature, Shakespeare's play, Russian literature, Henrik Ibsen and Short stories).
+⚡Fun fact1: **I am versatile and write poems/poetry** for inspiration, rejuvenation and expression.
+⚡Fun fact2: **A bibliophile, I read very widely** (African literature, Shakespeare's play, Russian literature, Henrik Ibsen and Short stories).
 
 ## Languages and Tools
 [AWS](https://aws.amazon.com/amplify/)
