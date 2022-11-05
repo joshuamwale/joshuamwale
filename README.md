@@ -1,7 +1,7 @@
 # Hi👋, I'm Joshua Mwale 
 
 ### About Me
-#### I'm a passionate software development engineer from Kenya
+I'm a passionate software development engineer from Kenya
 * My interests lie in ***frontend development*** first, then ***backend development(Authentication (JWT Auth), Authorization),*** and ***data analytics***
 * Transitioning into **software engineering and data analytics.**
 * Interested in using my skills to solve problems in ***healthcare, energy sector, fintech, and agriculture*** using technology-based products and solutions.
