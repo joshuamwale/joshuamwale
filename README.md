@@ -2,7 +2,7 @@
 
 ### About Me
 **I'm a passionate software development engineer from Kenya**
-* My interests lie in ***frontend development*** first, then ***backend development(Authentication (JWT Auth), Authorization*** and ***cloud computing.***
+* My interests lie in ***frontend devt*** first, then ***backend devt(Authentication (JWT Auth), Authorization*** and ***cloud computing.***
 * Transitioning into **software engineering** and **cloud computing.**
 * Interested in using my skills to solve problems in ***healthcare, energy sector, fintech, and agriculture*** using technology-based products and solutions.
 
