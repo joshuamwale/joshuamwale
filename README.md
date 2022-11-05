@@ -27,7 +27,7 @@
  ### CONNECT WITH ME
 [LinkedIn](https://www.linkedin.com/in/joshua-mwale-8a8a3557/) || [Twitter](https://twitter.com/joshua_mwale)|| [Github](https://github.com/joshuamwale) || 📝[Medium](https://medium.com/@mwale_josh)
 
-⚡Fun fact: **I write poems/poetry** for inspiration, rejuvenation and expression. I am **a bibliophile** and I read very widely (African literature, Shakespeare's play, Russian literature, Swahili literature)
+⚡Fun fact: **I write poems/poetry** for inspiration, rejuvenation and expression. I am **a bibliophile** and I read very widely (African literature, Shakespeare's play, Russian literature, Swahili literature & Henrik Ibsen)
 
 ## LANGUAGES and TOOLS
 [AWS](https://aws.amazon.com/amplify/)
