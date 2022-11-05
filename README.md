@@ -20,6 +20,7 @@
 * **JavaScript, ReactJS, Python, Ruby, Ruby on Rails**
 * **My career transition journey** 
 
+### EMAIL & CV
 * 📫How to reach me:**mwalejoshua89@gmail.com**
 * 📄Know about my experiences(CV): (Updating my CV)
  
