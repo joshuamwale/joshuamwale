@@ -2,12 +2,12 @@
 
 ### ABOUT ME
 **I'm a passionate software development engineer from Kenya**
-* My interests lie in ***frontend devt*** first, then ***backend devt(Authentication (JWT Auth), Authorization*** and ***cloud computing.***
+* My interests lie in: ***frontend devt*** first, then ***backend devt(Authentication: JWT Auth), Authorization*** and ***Cloud Computing.***
 * Transitioning into **software engineering** and **cloud computing.**
 * Focused on using my skills to solve problems in ***healthcare, energy sector, fintech, and agriculture*** using technology-based products and solutions.
 
 🌱 I’m currently learning: 
-* **JavaScript** (continous learning/ practice); **UI/UX Design**(Figma); **Project management** - an online course
+* **JavaScript** (re-learning/ continous practice); **UI/UX Design**(Figma); and **Project management**
 
 👯 I’m looking to collaborate on:
 * Building APIs at scale
@@ -17,7 +17,7 @@
 **Career mentorship** || **Internship and job opportunities**
  
 💬 Ask me about:
-* **JavaScript, ReactJS, Python, Ruby, Ruby on Rails**
+* **JavaScript, ReactJS,Ruby, Ruby on Rails**
 * **My career transition journey** 
 
 ### EMAIL & CV
