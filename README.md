@@ -8,7 +8,7 @@
 
 🌱 I’m currently learning: 
 * **JavaScript** (continous learning/ practice)
-* **UI/UX Design**
+* **UI/UX Design**(Figma)
 * **Project management** - an online course
 
 I'm having fun understanding how backend development works and how frameworks like Ruby on Rails enable this.
