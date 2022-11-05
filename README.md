@@ -1,9 +1,8 @@
 # Hi👋, I'm Joshua Mwale 
-### A passionate software development engineer from Kenya
 
-✨ Welcome. I'm glad to see you here. Please have a look at my educational and training journey. ✨ 
-
-* Currently enrolled at **Moringa School for the Software Engineering Program.** My interests lie in ***frontend development first, then backend development(web and mobile), data analytics, and AI.*** 
+### About Me
+#### I'm a passionate software development engineer from Kenya
+* My interests lie in ***frontend development first, then backend development(Authentication, Authorization), and data analytics
 * Transitioning into **software engineering and data analytics.**
 * Interested in using my skills to solve problems in ***healthcare, energy sector, fintech, and agriculture*** using technology-based products and solutions.
 
@@ -12,7 +11,7 @@
 * **UI/UX Design**
 * **Project management** - an online course
 
-I'm having fun understanding how backend development works and how frameworks like Angular and Ruby on Rails enable this.
+I'm having fun understanding how backend development works and how frameworks like Ruby on Rails enable this.
 
 👯 I’m looking to collaborate on:
 1. Building APIs at scale 
@@ -23,7 +22,7 @@ I'm having fun understanding how backend development works and how frameworks li
 2. Internship and job opportunities
  
 💬 Ask me about:
-* **JavaScript, React, Angular, Python, Ruby, Ruby on Rails**
+* **JavaScript, ReactJS, Python, Ruby, Ruby on Rails**
 * **Career transition journey** and my motivation to pursue a new career in software engineering (building computer programs, systems and apps) 
 
 * 📫How to reach me:**mwalejoshua89@gmail.com**
