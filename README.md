@@ -14,8 +14,7 @@
 * Building open source tools 
  
 🤔 I’m looking for help with:
-* **Career mentorship**
-* **Internship and job opportunities**
+**Career mentorship** || **Internship and job opportunities**
  
 💬 Ask me about:
 * **JavaScript, ReactJS, Python, Ruby, Ruby on Rails**
@@ -27,10 +26,8 @@
  
  ### CONNECT WITH ME
 [LinkedIn](https://www.linkedin.com/in/joshua-mwale-8a8a3557/) || [Twitter](https://twitter.com/joshua_mwale)|| [Github](https://github.com/joshuamwale) || 📝[Medium](https://medium.com/@mwale_josh)
-* Don't hesitate to reach out if you are having a question or want us to have a fireside chat about anything, including philosophy, economics and poetry.
 
-⚡Fun fact1: **I am versatile and write poems/poetry** for inspiration, rejuvenation and expression.
-⚡Fun fact2: **A bibliophile, I read very widely** (African literature, Shakespeare's play, Russian literature)
+⚡Fun fact: **I write poems/poetry** for inspiration, rejuvenation and expression. I am **a bibliophile** and I read very widely (African literature, Shakespeare's play, Russian literature, Swahili literature)
 
 ## LANGUAGES and TOOLS
 [AWS](https://aws.amazon.com/amplify/)
