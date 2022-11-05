@@ -15,7 +15,7 @@
  
 🤔 I’m looking for help with:
 * **Career mentorship**
-* **Internship and job opportunities**
+* **Internship** and **job opportunities**
  
 💬 Ask me about:
 * ***JavaScript, ReactJS, Ruby, Ruby on Rails***
