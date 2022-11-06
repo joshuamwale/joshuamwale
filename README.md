@@ -26,7 +26,7 @@
 * 📄Know about my experiences: [**My Curriculum Vitae**](https://docs.google.com/document/d/1Wd31QSVlSuSrFFP66UXHsh-j_eNnt9rbYS_jQhpuR7k/edit)
  
  ### CONNECT WITH ME
-[LinkedIn](https://www.linkedin.com/in/joshua-mwale-8a8a3557/) || [Twitter](https://twitter.com/joshua_mwale)|| [Github](https://github.com/joshuamwale) || 📝[Medium](https://medium.com/@mwale_josh)
+[**LinkedIn**](https://www.linkedin.com/in/joshua-mwale-8a8a3557/) || [**Twitter**](https://twitter.com/joshua_mwale)|| [**Github**](https://github.com/joshuamwale) || 📝[**Medium**](https://medium.com/@mwale_josh)
 
 ⚡Fun fact: **I write poems/poetry** for inspiration, rejuvenation and expression. I am **a bibliophile** and I read very widely (African literature, Shakespeare's plays, Russian literature, Swahili literature & Henrik Ibsen)
 
