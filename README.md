@@ -2,7 +2,7 @@
 
 ### ABOUT ME
 I'm a passionate **software development engineer** from Kenya
-* My interests lie in: **frontend devt** first, then **API devt(Building APIs + Authentication: JWT Auth) & Authorization)** and **Cloud Computing.**
+* My interests lie in: **frontend devt** first, then **APIs/ Server-side devt(plus Authentication: JWT Auth & Authorization)** and **Cloud Computing.**
 * Transitioning into **software engineering** and **cloud computing.**
 * Focused on using my skills to solve problems in ***healthcare, energy sector, fintech, and agriculture*** using technology-based products and solutions.
 
