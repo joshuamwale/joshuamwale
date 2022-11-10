@@ -7,7 +7,7 @@ I'm a passionate **software development engineer** from Kenya
 * Focused on using my skills to solve problems in ***healthcare, energy sector, fintech, and agriculture*** using technology-based products and solutions.
 
 🌱 I’m currently learning: 
-* **JavaScript** (re-learning/ continous practice); **UI/UX Design**(Figma); and **Project management**
+* **JavaScript** (re-learning/ continous practice); **UI Design**(Figma); and **Project management**
 
 👯 I’m looking to collaborate on:
 * Building APIs at scale
@@ -28,7 +28,7 @@ I'm a passionate **software development engineer** from Kenya
  ### CONNECT WITH ME
 [**LinkedIn**](https://www.linkedin.com/in/joshua-mwale-8a8a3557/) || [**Twitter**](https://twitter.com/joshua_mwale)|| [**Github**](https://github.com/joshuamwale) || 📝[**Medium**](https://medium.com/@mwale_josh)
 
-⚡Fun fact: **I write poems/poetry** for inspiration, rejuvenation and expression. I am **a bibliophile** and I read very widely (African literature, Swahili literature, Shakespeare's plays, Russian literature & Henrik Ibsen)
+⚡Fun fact: **I write poems/poetry** for inspiration, rejuvenation and expression. I am **a bibliophile** and I read very widely (African literature, Swahili literature, Shakespeare's plays, Russian literature & Henrik Ibsen). Currently reading Ibsen's ***Ghosts***
 
 ## LANGUAGES and TOOLS
 [AWS](https://aws.amazon.com/amplify/)
