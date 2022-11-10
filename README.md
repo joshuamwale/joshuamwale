@@ -2,7 +2,7 @@
 
 ### ABOUT ME
 I'm a passionate **software development engineer** from Kenya
-* My interests lie in: **frontend devt** first (JavaScript, React.js and Bootstrap), then **APIs/server-side devt**(+ app **Authentication: JWT Auth & Authorization)** and **Cloud Computing.**
+* My interests lie in: **frontend devt** first (JavaScript, React.js and Bootstrap), then **APIs/server-side devt** and **Cloud Computing.** I'm also very well-versed and experienced in **App Authentication using JSON Web tokens (JWT Auth) & Sessions** and **Authorization.** 
 * Transitioning into **software engineering** and **cloud computing.**
 * Focused on using my skills to solve problems in ***healthcare, energy sector, fintech, and agriculture*** using technology-based products and solutions.
 
