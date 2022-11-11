@@ -7,7 +7,7 @@ I'm a passionate **software development engineer** from Kenya
 * Focused on using my skills to solve problems in ***healthcare, energy sector, fintech, and agriculture*** using technology-based products and solutions.
 
 🌱 I’m currently learning: 
-* **JavaScript** (re-learning/ continous practice); **UI/UX Design** using (Figma); and **Project management**
+* **JavaScript** (re-learning/ continous practice); **UI Design** using (Figma); and **Project management**
 
 👯 I’m looking to collaborate on:
 * Building APIs at scale
