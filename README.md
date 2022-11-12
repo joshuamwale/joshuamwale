@@ -11,7 +11,7 @@ I'm a passionate **software development engineer** from Kenya
 
 👯 I’m looking to collaborate on:
 * Building APIs at scale
-* Building open source tools 
+* Open source software development
  
 🤔 I’m looking for help with:
 * **Career mentorship**
