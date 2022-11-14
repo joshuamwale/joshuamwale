@@ -28,7 +28,7 @@ I'm a passionate **software development engineer** from Kenya
  ### CONNECT WITH ME
 [**LinkedIn**](https://www.linkedin.com/in/joshua-mwale-8a8a3557/) || [**Twitter**](https://twitter.com/joshua_mwale)|| [**Github**](https://github.com/joshuamwale) || 📝[**Medium**](https://medium.com/@mwale_josh)
 
-⚡Fun fact: **I am a bibliophile** - books and poetry over TV and gutter press anyday. I read very widely (African literature, Software engineering books, Swahili literature, Shakespeare's plays, Russian literature & Henrik Ibsen). Currently, I'm reading Ibsen's ***Ghosts***. Next, I will be reading Steve McConnel's ***Code Complete 2***. Write **Poetry** for inspiration, rejuvenation, expression, and lighting the way.
+⚡Fun fact: **I am a bibliophile** - books and poetry over TV and gutter press. Currently, I'm reading Ibsen's ***Ghosts***. Next, I will be reading Steve McConnel's ***Code Complete 2***. I write **poetry** for inspiration, rejuvenation, expression, and lighting the way.
 
 ## LANGUAGES and TOOLS
 [AWS](https://aws.amazon.com/amplify/)
