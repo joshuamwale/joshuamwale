@@ -2,12 +2,11 @@
 
 ### ABOUT ME
 I'm a passionate **software development engineer** from Kenya
-* My interests lie in: **frontend devt** first (JavaScript, React.js,Bootstrap, Tailwind), then **backend/server-side devt** and **Cloud Computing.** I'm also very well-versed and experienced in **App Authentication using JWTs (JWT Auth) & Sessions** and **App Authorization.** 
-* Transitioning into **software engineering** and **cloud computing.**
+* My interests lie in: **frontend devt** first (JavaScript, React.js, Tailwind), then **backend/server-side devt** and **Cloud Computing.** I'm also very well-versed and experienced in **App Authentication using JWTs (JWT Auth) & Sessions** and **App Authorization.***
 * Focused on using my skills to solve problems in ***healthcare, energy sector, fintech, and agriculture*** using technology-based products and solutions.
 
 🌱 I’m currently learning: 
-* **JavaScript** (re-learning/ continous practice); **UI Design** using (Figma); and **Project management**
+* **JavaScript** (re-learning/ continous practice); **UI Design** using (Figma); and a **Project management course**
 
 👯 I’m looking to collaborate on:
 * Building APIs at scale
@@ -15,7 +14,7 @@ I'm a passionate **software development engineer** from Kenya
  
 🤔 I’m looking for help with:
 * **Career mentorship**
-* **Work opportunities**
+* **Internships and job opportunities** Hire me today if excellence is your pursuit. 
  
 💬 Ask me about:
 * ***JavaScript, ReactJS, Ruby, Ruby on Rails, APIs, App Authentication***
@@ -28,7 +27,7 @@ I'm a passionate **software development engineer** from Kenya
  ### CONNECT WITH ME
 [**LinkedIn**](https://www.linkedin.com/in/joshua-mwale-8a8a3557/) || [**Twitter**](https://twitter.com/joshua_mwale)|| [**Github**](https://github.com/joshuamwale) || 📝[**Medium**](https://medium.com/@mwale_josh)
 
-⚡Fun fact: **I write poems/poetry** for inspiration, rejuvenation and expression. I am **a bibliophile** and I read very widely (Software engineering books, African literature, Swahili literature, Shakespeare's plays, Russian literature & Henrik Ibsen). Currently, I'm reading Ibsen's ***Ghosts***. Next, I will be reading Hunt's and Thomas' ***The Pragmatic Programmer.***
+⚡Fun fact: **I am a bibliophile** - books and poetry over TV and gutter press anyday. I read very widely (Software engineering books, African literature, Swahili literature, Shakespeare's plays, Russian literature & Henrik Ibsen). Currently, I'm reading Ibsen's ***Ghosts***. Next, I will be reading Hunt's and Thomas' ***The Pragmatic Programmer.*** **Poetry** for inspiration, rejuvenation, expression, and lighting the way.
 
 ## LANGUAGES and TOOLS
 [AWS](https://aws.amazon.com/amplify/)
