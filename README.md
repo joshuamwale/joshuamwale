@@ -15,11 +15,10 @@ I'm a passionate **software development engineer** from Kenya
  
 🤔 I’m looking for help with:
 * **Career mentorship**
-* **Internship** and **job opportunities**
-* **Do not hesitate to hire me and give me an opportunity to work for you**
+* **Work opportunities**
  
 💬 Ask me about:
-* ***JavaScript, ReactJS, Ruby, Ruby on Rails***
+* ***JavaScript, ReactJS, Ruby, Ruby on Rails, APIs, App Authentication***
 * ***My career transition journey***
 
 ### EMAIL & CV
