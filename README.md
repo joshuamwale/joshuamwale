@@ -14,7 +14,7 @@ I'm a passionate **software development engineer** from Kenya
  
 🤔 I’m looking for help with:
 * **Career mentorship**
-* **Internships and job opportunities** Hire me today if excellence is your pursuit. 
+* **Internships and job opportunities**: Hire me today if excellence is your pursuit. 
  
 💬 Ask me about:
 * ***JavaScript, ReactJS, Ruby, Ruby on Rails, APIs, App Authentication***
