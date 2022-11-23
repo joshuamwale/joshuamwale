@@ -3,7 +3,7 @@
 ### ABOUT ME
 I'm a passionate **software development engineer** from Kenya
 * **Frontend development**(JavaScript, React.js, Tailwind), **Server-side devt** (Ruby, Rails) and **Cloud Computing.**
-* I'm well-versed and experienced in **App Authentication** and **Authorization** using **JWTs** & **Sessions.**
+* I'm also well-versed and experienced in **App Authentication** and **Authorization** using **JWTs** & **Sessions.**
 
 🌱 I’m currently learning: 
 * **JavaScript** (re-learning/ continous practice); **UI Design**; and a **Project management** course
@@ -14,7 +14,7 @@ I'm a passionate **software development engineer** from Kenya
  
 🤔 I’m looking for help with:
 * **Career mentorship**
-* **Internships and job opportunities**: Hire me today! Hire me any other time. 
+* **Work opportunities**: Hire me today! Hire me any other time. 
  
 💬 Ask me about:
 * ***JavaScript, ReactJS, Ruby, Ruby on Rails, APIs, App Authentication***
@@ -27,7 +27,7 @@ I'm a passionate **software development engineer** from Kenya
  ### CONNECT WITH ME
 [**LinkedIn**](https://www.linkedin.com/in/joshua-mwale-8a8a3557/) || [**Twitter**](https://twitter.com/joshua_mwale)|| [**Github**](https://github.com/joshuamwale) || 📝[**Medium**](https://medium.com/@mwale_josh)
 
-⚡Fun fact: **I am a bibliophile** - books and poetry over TV and gutter press. Currently, I'm reading Ibsen's ***Ghosts***. Next, I will be reading Steve McConnel's ***Code Complete 2***. I write **poetry** for inspiration, rejuvenation, expression, and lighting the way.
+⚡Fun fact: **A certified bibliophile** - books and poetry! I am also an **Industrial Chemist**. Currently reading Ibsen's ***Ghosts***. Next, I'll be reading Steve McConnel's ***Code Complete 2***.
 
 ## LANGUAGES and TOOLS
 [AWS](https://aws.amazon.com/amplify/)
