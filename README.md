@@ -27,7 +27,7 @@ I'm a passionate **software development engineer** from Kenya
  ### CONNECT WITH ME
 [**LinkedIn**](https://www.linkedin.com/in/joshua-mwale-8a8a3557/) || [**Twitter**](https://twitter.com/joshua_mwale)|| [**Github**](https://github.com/joshuamwale) || 📝[**Medium**](https://medium.com/@mwale_josh)
 
-⚡Fun fact: **I am a bibliophile** - a committed lover of books and poetry! I am also an **Industrial Chemist**. Currently reading Ibsen's ***Ghosts***. Next, I'll be reading Steve McConnel's ***Code Complete 2***.
+⚡Fun fact: **A bibliophile** - a committed lover of books and poetry! I also know something about Schrödinger’s equation. Currently reading Steve McConnel's ***Code Complete 2***.
 
 ## LANGUAGES and TOOLS
 [AWS](https://aws.amazon.com/amplify/)
