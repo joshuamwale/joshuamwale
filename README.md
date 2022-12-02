@@ -6,7 +6,7 @@ I'm a passionate **software development engineer** from Kenya
 * I'm also well-versed and experienced in **App Authentication** and **Authorization** using **JWTs** & **Sessions.**
 
 🌱 I’m currently learning: 
-* **JavaScript** (re-learning/ continous practice); **UI Design**; and a **Project management** course
+* **JavaScript** (re-learning/ continous practice) and a **LinkedIn Project management** course
 
 👯 I’m looking to collaborate on:
 * Building APIs at scale
@@ -29,7 +29,5 @@ I'm a passionate **software development engineer** from Kenya
 
 ⚡Fun fact: **A certified bibliophile** - a committed lover of books and poetry! Currently reading Ibsen's **Ghosts**, next is Steve McConnel's ***Code Complete 2***. I also possess some useful knowledge about the periodic table. 
 
-## LANGUAGES and TOOLS
-[AWS](https://aws.amazon.com/amplify/)
 
 
