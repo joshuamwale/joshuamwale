@@ -2,7 +2,7 @@
 
 ### ABOUT ME
 I'm a passionate **software development engineer** from Kenya
-* **Frontend development**(JavaScript, React.js, Tailwind), **Server-side devt** (Ruby, Rails) and **Cloud Computing.**
+* **Frontend development**(JavaScript, React.js), **Server-side devt** (SQL, Ruby, Rails) and **Cloud Computing.**
 * I'm also well-versed and experienced in **App Authentication** and **Authorization** using **JWTs** & **Sessions.**
 
 🌱 I’m currently learning: 
