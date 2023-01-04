@@ -17,7 +17,7 @@ I'm a passionate **software development engineer** from Kenya
 * **Work opportunities**: Hire me today! Hire me any other time. 
  
 💬 Ask me about:
-* ***JavaScript, ReactJS, Ruby, Ruby on Rails, APIs, App Authentication***
+* ***JavaScript, ReactJS, Ruby, Ruby on Rails, APIs, App Authentication & Authorization***
 * ***My career transition journey***
 
 ### EMAIL & CV
@@ -27,7 +27,7 @@ I'm a passionate **software development engineer** from Kenya
  ### CONNECT WITH ME
 [**LinkedIn**](https://www.linkedin.com/in/joshua-mwale-8a8a3557/) || [**Twitter**](https://twitter.com/joshua_mwale)|| [**Github**](https://github.com/joshuamwale) || 📝[**Medium**](https://medium.com/@mwale_josh)
 
-⚡Fun fact: **A certified bibliophile** - a committed lover of books and poetry! Currently reading Ibsen's **Ghosts**, next is Steve McConnel's ***Code Complete 2***. I also possess some useful knowledge about the periodic table.
+⚡Fun fact: **A certified bibliophile** - a committed lover of books and poetry! Currently reading Ibsen's **An Enemy of the People**, next is Steve McConnel's ***Code Complete 2***. I also possess some useful and transferable knowledge about the periodic table & Schrödinger's equation.
 
 
 
