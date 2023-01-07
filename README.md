@@ -18,7 +18,7 @@ I'm a passionate **Software Development Engineer** from Kenya
 * **Career mentorship**
 
 💬 Ask me about:
-* ***JavaScript, ReactJS, Ruby and RonR,Microsoft Azure*** and ***App Authentication & Authorization***
+* ***JavaScript, ReactJS, Ruby and Rails***, **Microsoft Azure** and ***App Authentication & Authorization***
 * ***My career transition journey***
 
 ### EMAIL & CV
