@@ -22,7 +22,7 @@ I'm a passionate **Software Development Engineer** from Kenya
 * ***My career transition journey***
 
 ### EMAIL & CV
-* 📫How to reach me:**mwalejoshua89@gmail.com**
+* 📫How to reach me:**mwalejoshua@outlook.com**
 * 📄Know about my experiences: **I can share my Curriculum Vitae or resume upon request**
  
  ### CONNECT WITH ME
