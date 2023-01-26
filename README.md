@@ -28,7 +28,7 @@ I'm a passionate **Software Development Engineer** from Kenya
  ### CONNECT WITH ME
 [**LinkedIn**](https://www.linkedin.com/in/joshua-mwale-8a8a3557/) || [**Twitter**](https://twitter.com/joshua_mwale)|| [**Github**](https://github.com/joshuamwale) || 📝[**Medium**](https://medium.com/@mwale_josh)
 
-⚡Fun fact: **A certified bibliophile** - a committed lover of books and poetry! Currently reading Henrik Ibsen's **Four Great Plays**, February I'll be reading Steve McConnel's ***Code Complete 2***. I also possess some useful and transferable knowledge about the periodic table and Schrödinger's equation.
+⚡Fun fact: **A certified bibliophile** - a committed lover of books and poetry! Just started to read Steve McConnel's ***Code Complete 2***. I also possess some useful and transferable knowledge about the periodic table and Schrödinger's equation.
 
 
 
