@@ -6,7 +6,7 @@ I'm a passionate **Software Development Engineer** from Kenya
 * I'm also well-versed and experienced in **App Authentication** and **Authorization** using **JWTs**
 
 🌱 I’m currently learning: 
-* **Microsoft Cloud environment** (Microsoft Azure)
+* **Microsoft Cloud environment** (Microsoft Azure Administrator - Certified)
 * **Python** for backend
 * **JavaScript** (re-learning/ continous practice)
 
