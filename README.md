@@ -2,7 +2,7 @@
 
 ### ABOUT ME
 I'm a passionate **Software Development Engineer** from Kenya
-* **Frontend development**, **Server-side devt** **Cloud Computing.**
+* **Frontend development**, **Server-side devt**, **Cloud Computing.**
 
 🌱 I’m currently learning: 
 * **Microsoft Cloud environment** (Microsoft Azure Administrator - Certified)
